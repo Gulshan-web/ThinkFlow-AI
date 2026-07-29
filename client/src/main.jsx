@@ -4,7 +4,7 @@ import ReactDOM from "react-dom/client";
 import { ReactFlowProvider } from "reactflow";
 import { Toaster } from "react-hot-toast";
 
-import App from "./app";
+import App from "./App";
 
 import "./index.css";
 import "reactflow/dist/style.css";
